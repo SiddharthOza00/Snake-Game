@@ -20,7 +20,7 @@ If the snake head collides with any part of the body, you die, Game Over.
 I have attached the screenshots of the game in the folder ScreenShots.
 
 
-#Requirements To run tht code:
+#Requirements To run the code:
 
 1)I have used PyCharm to develop this project.
 
