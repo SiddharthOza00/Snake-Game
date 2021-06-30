@@ -17,6 +17,10 @@ If you crash on the border of the screen, You die, Game Over.
 
 If the snake head collides with any part of the body, you die, Game Over.
 
+You see your high score once you have start playing the game.
+
+Don't worry your highscore will always be saved even if you close the program and rerun it. Your high score will be there!
+
 I have attached the screenshots of the game in the folder ScreenShots.
 
 
